@@ -32,19 +32,17 @@
  
 ### Aplicações e Dados
  
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396&label=Iniciante)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396&label=Intermediário)
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396&label=Intermediário)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&label=Iniciante)
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&label=Iniciante)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&label=Intermediário)
 
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6&label=Iniciante)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6&label=Intermediário)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&label=Intermediário)
-
-![VueJS](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&label=Intermediário)
  
 ### Utilidades
  
