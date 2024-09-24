@@ -11,11 +11,11 @@
  
 - 🤔 Explorando soluções de software.
 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
+- 🎓 Graduando em Ciência da Computação.
 
-- 💼 Trabalhando como Analista De Suporte Júnior na SaaSTec.
+- 💼 Trabalhando como Suporte na SaaSTec.
 
-- 🌱 Aprendendo mais sobre aplicações web e automações.
+- 🌱 Aprendendo mais sobre aplicações automações e AI.
  
 ## Estatísticas
  
