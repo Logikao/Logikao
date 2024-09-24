@@ -15,7 +15,7 @@
 
 - 💼 Trabalhando como Suporte na SaaSTec.
 
-- 🌱 Aprendendo mais sobre aplicações automações e AI.
+- 🌱 Aprendendo mais sobre automações e AI.
  
 ## Estatísticas
  
