@@ -1,4 +1,4 @@
-[![LinkedIn]()]()
+[![LinkedIn](https://www.linkedin.com/in/rafael-vargas-serenato)]()
 
 [![E-mail]()](mailto:rafaelserenato@hotmail.com)
 
