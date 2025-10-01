@@ -1,6 +1,6 @@
-[![LinkedIn](https://img.shields.io/badge/-Rafael%20Vargas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-matyak/)]()
+[![LinkedIn]()]()
 
-[![E-mail](https://img.shields.io/badge/-rafaelserenato%40hotmail.com.br-006bed?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:mateusmatyak@outlook.com.br)](mailto:rafaelserenato@hotmail.com.br)
+[![E-mail]()](mailto:rafaelserenato@hotmail.com)
 
  
 # Bem-vindo ao Meu Perfil no GitHub! 👋
