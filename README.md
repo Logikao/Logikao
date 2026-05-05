@@ -34,6 +34,6 @@ E-mail: rafaelserenato@hotmail.com
 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=2C2255)
 
-![GoogleColab](https://img.shields.io/badge/-GoogleColab-333333?style=flat&logo=pycharm&logoColor=2C2255)
+![GoogleColab](https://img.shields.io/badge/-GoogleColab-333333?style=flat&logo=pycharm&logoColor=007ACC)
 
  
