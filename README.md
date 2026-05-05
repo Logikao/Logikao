@@ -1,48 +1,30 @@
-[![LinkedIn](https://www.linkedin.com/in/rafael-vargas-serenato)]()
+LinkedIn: https://www.linkedin.com/in/rafael-vargas-serenato
 
-[![E-mail]()](mailto:rafaelserenato@hotmail.com)
+E-mail: rafaelserenato@hotmail.com
 
  
-# Bem-vindo ao Meu Perfil no GitHub! 👋
+# Wellcome to my GitHub! 👋
  
 ![](https://komarev.com/ghpvc/?username=Logikao&color=006bed)
  
 ## Sobre Mim
  
-- 🤔 Explorando soluções de software.
+- 🤔 Exploring software solutions.
 
-- 🎓 Graduando em Ciência da Computação.
+- 🎓 Computer Science - PUCPR.
 
-- 💼 Trabalhando como Suporte na SaaSTec.
+- 🌱 Learning more about automation and AI.
+ 
 
-- 🌱 Aprendendo mais sobre automações e AI.
- 
-## Estatísticas
- 
-<div style="display: flex; align-items: flex-start;">
-    <a href="https://github.com/suetamkaytam">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Logikao&show_icons=true&count_private=true&locale=pt-br" />
-    </a>
-    <a href="https://github.com/suetamkaytam">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logikao&show_icons=true&locale=pt-br"/>
-    </a>
-</div>
- 
-## Minhas Skills
- 
-### Aplicações e Dados
- 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396&label=Intermediário)
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396&label=Intermediário)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&label=Iniciante)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&label=Intermediário)
 
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6&label=Intermediário)
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&label=Intermediário)
+![MySQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&label=Intermediário)
  
 ### Utilidades
  
