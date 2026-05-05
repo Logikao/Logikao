@@ -28,7 +28,7 @@ E-mail: rafaelserenato@hotmail.com
 
 ![ComputerVision](https://img.shields.io/badge/-ComputerVision-333333?style=flat&logo=jenkins&label=Intermediário)
  
-### Ferramentas de Desenvolvimento
+### Development Softwares
  
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
