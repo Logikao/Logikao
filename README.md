@@ -7,7 +7,7 @@ E-mail: rafaelserenato@hotmail.com
  
 ![](https://komarev.com/ghpvc/?username=Logikao&color=006bed)
  
-## Sobre Mim
+## About me
  
 - 🤔 Exploring software solutions.
 
